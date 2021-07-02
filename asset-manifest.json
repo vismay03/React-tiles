@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-tiles/static/css/main.523b2059.chunk.css",
-    "main.js": "/React-tiles/static/js/main.b0b5528b.chunk.js",
-    "main.js.map": "/React-tiles/static/js/main.b0b5528b.chunk.js.map",
+    "main.css": "/React-tiles/static/css/main.0cca10ef.chunk.css",
+    "main.js": "/React-tiles/static/js/main.c7e18465.chunk.js",
+    "main.js.map": "/React-tiles/static/js/main.c7e18465.chunk.js.map",
     "runtime-main.js": "/React-tiles/static/js/runtime-main.b5dd07f6.js",
     "runtime-main.js.map": "/React-tiles/static/js/runtime-main.b5dd07f6.js.map",
     "static/css/2.4deafc93.chunk.css": "/React-tiles/static/css/2.4deafc93.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.b225eb81.chunk.js.map": "/React-tiles/static/js/3.b225eb81.chunk.js.map",
     "index.html": "/React-tiles/index.html",
     "static/css/2.4deafc93.chunk.css.map": "/React-tiles/static/css/2.4deafc93.chunk.css.map",
-    "static/css/main.523b2059.chunk.css.map": "/React-tiles/static/css/main.523b2059.chunk.css.map",
+    "static/css/main.0cca10ef.chunk.css.map": "/React-tiles/static/css/main.0cca10ef.chunk.css.map",
     "static/js/2.14b7aded.chunk.js.LICENSE.txt": "/React-tiles/static/js/2.14b7aded.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/React-tiles/static/media/logo.6ce24c58.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.b5dd07f6.js",
     "static/css/2.4deafc93.chunk.css",
     "static/js/2.14b7aded.chunk.js",
-    "static/css/main.523b2059.chunk.css",
-    "static/js/main.b0b5528b.chunk.js"
+    "static/css/main.0cca10ef.chunk.css",
+    "static/js/main.c7e18465.chunk.js"
   ]
 }
